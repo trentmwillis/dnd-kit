@@ -1,5 +1,11 @@
 # @dnd-kit/core
 
+## 3.1.1
+
+### Patch Changes
+
+- [`5d4d292`](https://github.com/clauderic/dnd-kit/commit/5d4d2922e0a6c2433049268d5db40fadd13823a3) [#331](https://github.com/clauderic/dnd-kit/pull/331) Thanks [@phungleson](https://github.com/phungleson)! - Fix typo in `SensorContext` type (`scrollAdjustedTransalte` --> `scrollAdjustedTranslate`)
+
 ## 3.1.0
 
 ### Minor Changes
